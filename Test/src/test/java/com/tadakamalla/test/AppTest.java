@@ -1,7 +1,10 @@
-package com.tadakamalla.test;
+package src.test.java.com.tadakamalla.test;
 
 import static org.junit.Assert.*;
+
 import org.junit.Test;
+
+import com.tadakamalla.test.App;
 
 
 public class AppTest {
